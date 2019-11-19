@@ -129,6 +129,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+#it may need to change static dir as static root
 # static root/dir adding below..ROOT OR DIR we can define
 STATICFILES_DIRS = [
     STATIC_DIR,
